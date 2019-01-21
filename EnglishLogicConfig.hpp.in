@@ -1,0 +1,2 @@
+#define VERSION_MAJOR @english_logic_VERSION_MAJOR@
+#define VERSION_MINOR @english_logic_VERSION_MINOR@
